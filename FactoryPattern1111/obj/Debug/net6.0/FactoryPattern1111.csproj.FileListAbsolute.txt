@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\bin\Debug\net6.0\FactoryPattern1111.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\bin\Debug\net6.0\FactoryPattern1111.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\bin\Debug\net6.0\FactoryPattern1111.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\bin\Debug\net6.0\FactoryPattern1111.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\bin\Debug\net6.0\ref\FactoryPattern1111.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\bin\Debug\net6.0\FactoryPattern1111.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\FactoryPattern1111.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\FactoryPattern1111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\FactoryPattern1111.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\FactoryPattern1111.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\FactoryPattern1111.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\FactoryPattern1111.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\ref\FactoryPattern1111.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\FactoryPattern1111.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\FactoryPattern\FactoryPanel1111\FactoryPattern1111\FactoryPattern1111\obj\Debug\net6.0\FactoryPattern1111.genruntimeconfig.cache
